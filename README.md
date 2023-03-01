@@ -1,4 +1,4 @@
-This is MATLAB implementation of paper "Low Rank Tensor Recovery via Non-Convex Regularization, Structured Factorization and Spatio-Temporal Characteristics".
+This is MATLAB implementation of paper "[Low-rank tensor recovery via non-convex regularization, structured factorization and spatio-temporal characteristics](https://doi.org/10.1016/j.patcog.2023.109343)".
 
 If you have questions about the code, please email: quanyu@tju.edu.cn
 
